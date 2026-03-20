@@ -1,0 +1,6 @@
+Prestige-Home-Appliances/
+│── index.html
+│── style.css
+│── script.js
+│── images/
+│── assets/
